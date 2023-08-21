@@ -1,6 +1,6 @@
 # Visualizatio Gallery
 
-The following images are visualization that i plotted in a project at the some point. 
+The following images are visualization that i plotted in a project at some point. 
 KIndly go through it and drop a comment.
 
 <img width="960" alt="Screenshot 2023-04-13 15 47 47" src="https://github.com/mikeolaniyi/Visualization_Gallery/assets/120651356/4bee4e5e-69a0-438d-8f88-1ce5e0570b1a">
