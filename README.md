@@ -1,6 +1,6 @@
 # Visualization Gallery
 
-The following images are visualization that I plotted in a project at some point. 
+The following images are visualizations that I plotted in past projects at some point with Python, Power BI, Tableau, Excel and Google Sheets. 
 Kindly go through it and drop a comment.
 
 ![SMMT Analysis](https://github.com/mikeolaniyi/Visualization_Gallery/assets/120651356/e9d99d11-4747-40d2-b7f2-9e1ef023ec23)
